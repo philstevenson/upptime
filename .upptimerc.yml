@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: philstevenson # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -8,7 +8,7 @@ sites:
   - name: PhilStevenson.tech
     url: https://philstevenson.tech
   - name: Discovery Property Services
-    url: https://discoverypropertyservices.co.uk/
+    url: https://discoverypropertyservices.co.uk
   - name: Anderson Driver Training
     url: https://www.andersondrivertraining.co.uk
 
