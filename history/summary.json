@@ -5,37 +5,37 @@
     "icon": "https://favicons.githubusercontent.com/vinnyfarms.com",
     "slug": "vinny-farms",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 352,
     "timeDay": 330,
     "timeWeek": 352,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {
-      "2022-01-09": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PhilStevenson.tech",
     "url": "https://philstevenson.tech",
     "icon": "https://favicons.githubusercontent.com/philstevenson.tech",
     "slug": "phil-stevenson-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 287,
-    "timeWeek": 395,
-    "timeMonth": 395,
-    "timeYear": 395,
-    "dailyMinutesDown": {}
+    "time": 386,
+    "timeDay": 274,
+    "timeWeek": 386,
+    "timeMonth": 386,
+    "timeYear": 386,
+    "dailyMinutesDown": {
+      "2022-01-09": 0
+    }
   },
   {
     "name": "Discovery Property Services",
