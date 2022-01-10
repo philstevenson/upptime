@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/vinnyfarms.com",
     "slug": "vinny-farms",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 331,
-    "timeDay": 255,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
-    "dailyMinutesDown": {
-      "2022-01-09": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 339,
+    "timeDay": 296,
+    "timeWeek": 339,
+    "timeMonth": 339,
+    "timeYear": 339,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PhilStevenson.tech",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 234,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "time": 387,
+    "timeDay": 351,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 493,
-    "timeWeek": 404,
-    "timeMonth": 404,
-    "timeYear": 404,
+    "time": 387,
+    "timeDay": 153,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 802,
-    "timeDay": 358,
-    "timeWeek": 802,
-    "timeMonth": 802,
-    "timeYear": 802,
+    "time": 771,
+    "timeDay": 323,
+    "timeWeek": 771,
+    "timeMonth": 771,
+    "timeYear": 771,
     "dailyMinutesDown": {}
   }
 ]
