@@ -4,10 +4,10 @@
     "url": "https://vinnyfarms.com",
     "icon": "https://favicons.githubusercontent.com/vinnyfarms.com",
     "slug": "vinny-farms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
@@ -15,7 +15,9 @@
     "timeWeek": 174,
     "timeMonth": 262,
     "timeYear": 262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-24": 1
+    }
   },
   {
     "name": "PhilStevenson.tech",
