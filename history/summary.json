@@ -22,19 +22,19 @@
     "url": "https://philstevenson.tech",
     "icon": "https://favicons.githubusercontent.com/philstevenson.tech",
     "slug": "phil-stevenson-tech",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 125,
-    "timeWeek": 189,
-    "timeMonth": 329,
-    "timeYear": 329,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 334,
+    "timeDay": 273,
+    "timeWeek": 231,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-02": 11
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://www.andersondrivertraining.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.andersondrivertraining.co.uk",
     "slug": "anderson-driver-training",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 314,
-    "timeWeek": 1023,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 775,
+    "timeDay": 2916,
+    "timeWeek": 1585,
+    "timeMonth": 775,
+    "timeYear": 775,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-02": 11
     }
   }
 ]
