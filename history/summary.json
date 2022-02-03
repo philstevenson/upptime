@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 171,
-    "timeWeek": 246,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "time": 264,
+    "timeDay": 623,
+    "timeWeek": 319,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/philstevenson.tech",
     "slug": "phil-stevenson-tech",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 334,
-    "timeDay": 273,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 330,
+    "timeDay": 287,
     "timeWeek": 231,
-    "timeMonth": 334,
-    "timeYear": 334,
-    "dailyMinutesDown": {
-      "2022-02-02": 11
-    }
+    "timeMonth": 330,
+    "timeYear": 330,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discovery Property Services",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 425,
-    "timeWeek": 233,
-    "timeMonth": 372,
-    "timeYear": 372,
+    "time": 364,
+    "timeDay": 54,
+    "timeWeek": 221,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/www.andersondrivertraining.co.uk",
     "slug": "anderson-driver-training",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 775,
-    "timeDay": 2916,
-    "timeWeek": 1585,
-    "timeMonth": 775,
-    "timeYear": 775,
-    "dailyMinutesDown": {
-      "2022-02-02": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 760,
+    "timeDay": 2841,
+    "timeWeek": 926,
+    "timeMonth": 760,
+    "timeYear": 760,
+    "dailyMinutesDown": {}
   }
 ]
