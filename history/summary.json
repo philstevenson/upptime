@@ -13,7 +13,7 @@
     "time": 294,
     "timeDay": 74,
     "timeWeek": 214,
-    "timeMonth": 323,
+    "timeMonth": 326,
     "timeYear": 294,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,20 @@
     "url": "https://philstevenson.tech",
     "icon": "https://favicons.githubusercontent.com/philstevenson.tech",
     "slug": "phil-stevenson-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 254,
-    "timeWeek": 331,
-    "timeMonth": 293,
-    "timeYear": 332,
-    "dailyMinutesDown": {}
+    "time": 328,
+    "timeDay": 166,
+    "timeWeek": 299,
+    "timeMonth": 287,
+    "timeYear": 328,
+    "dailyMinutesDown": {
+      "2022-02-24": 0
+    }
   },
   {
     "name": "Discovery Property Services",
@@ -58,7 +60,7 @@
     "url": "https://www.andersondrivertraining.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.andersondrivertraining.co.uk",
     "slug": "anderson-driver-training",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +71,8 @@
     "timeWeek": 1703,
     "timeMonth": 1126,
     "timeYear": 857,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-24": 0
+    }
   }
 ]
