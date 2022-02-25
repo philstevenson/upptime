@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 74,
-    "timeWeek": 214,
-    "timeMonth": 326,
-    "timeYear": 294,
+    "time": 291,
+    "timeDay": 125,
+    "timeWeek": 220,
+    "timeMonth": 325,
+    "timeYear": 291,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/philstevenson.tech",
     "slug": "phil-stevenson-tech",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 325,
-    "timeDay": 149,
-    "timeWeek": 279,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 322,
+    "timeDay": 111,
+    "timeWeek": 278,
     "timeMonth": 282,
-    "timeYear": 325,
-    "dailyMinutesDown": {
-      "2022-02-24": 9
-    }
+    "timeYear": 322,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discovery Property Services",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 334,
-    "timeWeek": 324,
-    "timeMonth": 266,
-    "timeYear": 337,
+    "time": 334,
+    "timeDay": 133,
+    "timeWeek": 282,
+    "timeMonth": 258,
+    "timeYear": 334,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/www.andersondrivertraining.co.uk",
     "slug": "anderson-driver-training",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 850,
-    "timeDay": 353,
-    "timeWeek": 1549,
-    "timeMonth": 1106,
+    "timeDay": 655,
+    "timeWeek": 1630,
+    "timeMonth": 1125,
     "timeYear": 850,
-    "dailyMinutesDown": {
-      "2022-02-24": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
