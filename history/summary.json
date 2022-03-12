@@ -4,18 +4,20 @@
     "url": "https://vinnyfarms.com",
     "icon": "https://favicons.githubusercontent.com/vinnyfarms.com",
     "slug": "vinny-farms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 141,
-    "timeWeek": 143,
-    "timeMonth": 174,
-    "timeYear": 264,
-    "dailyMinutesDown": {}
+    "time": 263,
+    "timeDay": 232,
+    "timeWeek": 156,
+    "timeMonth": 173,
+    "timeYear": 263,
+    "dailyMinutesDown": {
+      "2022-03-12": 0
+    }
   },
   {
     "name": "PhilStevenson.tech",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 1287,
-    "timeWeek": 331,
-    "timeMonth": 280,
+    "timeDay": 352,
+    "timeWeek": 356,
+    "timeMonth": 278,
     "timeYear": 315,
     "dailyMinutesDown": {}
   },
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 371,
-    "timeWeek": 309,
-    "timeMonth": 327,
-    "timeYear": 337,
+    "time": 338,
+    "timeDay": 464,
+    "timeWeek": 308,
+    "timeMonth": 339,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 221,
-    "timeWeek": 1723,
-    "timeMonth": 1032,
-    "timeYear": 877,
+    "time": 871,
+    "timeDay": 324,
+    "timeWeek": 1732,
+    "timeMonth": 1030,
+    "timeYear": 871,
     "dailyMinutesDown": {}
   }
 ]
