@@ -4,18 +4,19 @@
     "url": "https://vinnyfarms.com",
     "icon": "https://favicons.githubusercontent.com/vinnyfarms.com",
     "slug": "vinny-farms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 291,
     "timeDay": 101,
     "timeWeek": 146,
-    "timeMonth": 305,
+    "timeMonth": 304,
     "timeYear": 291,
     "dailyMinutesDown": {
+      "2022-03-29": 0,
       "2022-03-13": 39,
       "2022-03-12": 3
     }
@@ -25,18 +26,20 @@
     "url": "https://philstevenson.tech",
     "icon": "https://favicons.githubusercontent.com/philstevenson.tech",
     "slug": "phil-stevenson-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 172,
-    "timeWeek": 281,
-    "timeMonth": 312,
-    "timeYear": 315,
-    "dailyMinutesDown": {}
+    "time": 505,
+    "timeDay": 9719,
+    "timeWeek": 2654,
+    "timeMonth": 943,
+    "timeYear": 505,
+    "dailyMinutesDown": {
+      "2022-03-29": 0
+    }
   },
   {
     "name": "Discovery Property Services",
