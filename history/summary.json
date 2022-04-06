@@ -61,9 +61,9 @@
     "url": "https://www.andersondrivertraining.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.andersondrivertraining.co.uk",
     "slug": "anderson-driver-training",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
@@ -73,6 +73,7 @@
     "timeMonth": 1029,
     "timeYear": 864,
     "dailyMinutesDown": {
+      "2022-04-06": 0,
       "2022-03-26": 35
     }
   }
