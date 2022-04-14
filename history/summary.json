@@ -4,9 +4,9 @@
     "url": "https://vinnyfarms.com",
     "icon": "https://favicons.githubusercontent.com/vinnyfarms.com",
     "slug": "vinny-farms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 346,
     "timeYear": 287,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2022-03-13": 39,
       "2022-03-12": 3
     }
@@ -25,19 +26,19 @@
     "url": "https://philstevenson.tech",
     "icon": "https://favicons.githubusercontent.com/philstevenson.tech",
     "slug": "phil-stevenson-tech",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 112,
-    "timeWeek": 271,
-    "timeMonth": 848,
-    "timeYear": 467,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 468,
+    "timeDay": 305,
+    "timeWeek": 299,
+    "timeMonth": 838,
+    "timeYear": 468,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-14": 32
     }
   },
   {
@@ -63,7 +64,7 @@
     "url": "https://www.andersondrivertraining.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.andersondrivertraining.co.uk",
     "slug": "anderson-driver-training",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -75,6 +76,7 @@
     "timeMonth": 1209,
     "timeYear": 972,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2022-03-26": 35
     }
   }
