@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 287,
     "timeDay": 129,
-    "timeWeek": 458,
+    "timeWeek": 317,
     "timeMonth": 346,
     "timeYear": 287,
     "dailyMinutesDown": {
@@ -25,7 +25,7 @@
     "url": "https://philstevenson.tech",
     "icon": "https://favicons.githubusercontent.com/philstevenson.tech",
     "slug": "phil-stevenson-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 271,
     "timeMonth": 848,
     "timeYear": 467,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "Discovery Property Services",
@@ -69,7 +71,7 @@
     "uptimeYear": "99.98%",
     "time": 972,
     "timeDay": 165,
-    "timeWeek": 991,
+    "timeWeek": 1107,
     "timeMonth": 1209,
     "timeYear": 972,
     "dailyMinutesDown": {
