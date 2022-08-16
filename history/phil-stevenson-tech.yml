@@ -1,7 +1,7 @@
 url: https://philstevenson.tech
-status: up
-code: 200
-responseTime: 248
-lastUpdated: 2022-08-15T23:03:10.390Z
+status: down
+code: 502
+responseTime: 226
+lastUpdated: 2022-08-16T14:45:41.382Z
 startTime: Tue Jan 04 2022 21:23:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
