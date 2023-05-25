@@ -44,19 +44,19 @@
     "url": "https://discoverypropertyservices.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/discoverypropertyservices.co.uk.ico",
     "slug": "discovery-property-services",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 201,
-    "timeWeek": 139,
-    "timeMonth": 142,
-    "timeYear": 379,
+    "time": 376,
+    "timeDay": 261,
+    "timeWeek": 162,
+    "timeMonth": 147,
+    "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-05-25": 0
+      "2023-05-25": 7
     }
   },
   {
