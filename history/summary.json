@@ -25,19 +25,19 @@
     "url": "https://philstevenson.tech",
     "icon": "https://icons.duckduckgo.com/ip3/philstevenson.tech.ico",
     "slug": "phil-stevenson-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 141,
-    "timeWeek": 163,
-    "timeMonth": 182,
-    "timeYear": 249,
+    "time": 313,
+    "timeDay": 362,
+    "timeWeek": 216,
+    "timeMonth": 195,
+    "timeYear": 250,
     "dailyMinutesDown": {
-      "2023-11-17": 1
+      "2023-11-17": 15
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://discoverypropertyservices.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/discoverypropertyservices.co.uk.ico",
     "slug": "discovery-property-services",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 56,
-    "timeWeek": 80,
-    "timeMonth": 99,
+    "time": 287,
+    "timeDay": 109,
+    "timeWeek": 90,
+    "timeMonth": 101,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2023-11-17": 0
+      "2023-11-17": 14
     }
   },
   {
