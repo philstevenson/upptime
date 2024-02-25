@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 166,
-    "timeWeek": 174,
-    "timeMonth": 154,
+    "time": 277,
+    "timeDay": 306,
+    "timeWeek": 175,
+    "timeMonth": 160,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2023-03-11": 16
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 195,
-    "timeWeek": 200,
-    "timeMonth": 153,
-    "timeYear": 207,
+    "timeDay": 191,
+    "timeWeek": 159,
+    "timeMonth": 157,
+    "timeYear": 206,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 576,
-    "timeWeek": 203,
-    "timeMonth": 130,
-    "timeYear": 145,
+    "timeDay": 56,
+    "timeWeek": 197,
+    "timeMonth": 129,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.andersondrivertraining.co.uk.ico",
     "slug": "anderson-driver-training",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 170,
-    "timeWeek": 164,
-    "timeMonth": 158,
-    "timeYear": 428,
+    "time": 934,
+    "timeDay": 157,
+    "timeWeek": 160,
+    "timeMonth": 160,
+    "timeYear": 415,
     "dailyMinutesDown": {}
   }
 ]
