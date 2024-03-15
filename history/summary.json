@@ -58,19 +58,19 @@
     "url": "https://www.andersondrivertraining.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.andersondrivertraining.co.uk.ico",
     "slug": "anderson-driver-training",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 833,
-    "timeDay": 258,
-    "timeWeek": 278,
+    "timeDay": 226,
+    "timeWeek": 268,
     "timeMonth": 196,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2024-03-15": 0
+      "2024-03-15": 7
     }
   }
 ]
