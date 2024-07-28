@@ -4,18 +4,20 @@
     "url": "https://vinnyfarms.com",
     "icon": "https://icons.duckduckgo.com/ip3/vinnyfarms.com.ico",
     "slug": "vinny-farms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 144,
-    "timeWeek": 244,
-    "timeMonth": 220,
-    "timeYear": 242,
-    "dailyMinutesDown": {}
+    "timeDay": 158,
+    "timeWeek": 235,
+    "timeMonth": 218,
+    "timeYear": 241,
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   },
   {
     "name": "PhilStevenson.tech",
