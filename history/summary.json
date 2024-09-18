@@ -6,18 +6,16 @@
     "slug": "vinny-farms",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 210,
-    "timeWeek": 215,
-    "timeMonth": 223,
+    "timeDay": 228,
+    "timeWeek": 222,
+    "timeMonth": 222,
     "timeYear": 189,
-    "dailyMinutesDown": {
-      "2024-09-17": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PhilStevenson.tech",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 199,
-    "timeWeek": 196,
-    "timeMonth": 198,
-    "timeYear": 186,
+    "time": 194,
+    "timeDay": 793,
+    "timeWeek": 297,
+    "timeMonth": 213,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 74,
-    "timeWeek": 99,
-    "timeMonth": 129,
-    "timeYear": 116,
+    "time": 130,
+    "timeDay": 789,
+    "timeWeek": 199,
+    "timeMonth": 150,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 258,
-    "timeWeek": 291,
-    "timeMonth": 212,
+    "timeDay": 135,
+    "timeWeek": 288,
+    "timeMonth": 210,
     "timeYear": 187,
     "dailyMinutesDown": {}
   }
