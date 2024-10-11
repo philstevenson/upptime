@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 170,
-    "timeWeek": 231,
+    "timeDay": 174,
+    "timeWeek": 230,
     "timeMonth": 252,
-    "timeYear": 194,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 238,
-    "timeWeek": 192,
-    "timeMonth": 405,
-    "timeYear": 208,
+    "timeDay": 219,
+    "timeWeek": 179,
+    "timeMonth": 409,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   },
   {
@@ -46,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 87,
-    "timeWeek": 132,
-    "timeMonth": 129,
+    "time": 128,
+    "timeDay": 71,
+    "timeWeek": 127,
+    "timeMonth": 128,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -60,17 +60,15 @@
     "slug": "anderson-driver-training",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 206,
-    "timeWeek": 193,
-    "timeMonth": 243,
+    "time": 202,
+    "timeDay": 162,
+    "timeWeek": 188,
+    "timeMonth": 241,
     "timeYear": 190,
-    "dailyMinutesDown": {
-      "2024-10-10": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
