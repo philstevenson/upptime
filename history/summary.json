@@ -4,19 +4,19 @@
     "url": "https://vinnyfarms.com",
     "icon": "https://icons.duckduckgo.com/ip3/vinnyfarms.com.ico",
     "slug": "vinny-farms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 204,
-    "timeWeek": 348,
-    "timeMonth": 257,
+    "timeDay": 174,
+    "timeWeek": 322,
+    "timeMonth": 253,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 23
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://www.andersondrivertraining.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.andersondrivertraining.co.uk.ico",
     "slug": "anderson-driver-training",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 245,
-    "timeWeek": 286,
-    "timeMonth": 608,
+    "timeDay": 253,
+    "timeWeek": 283,
+    "timeMonth": 597,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 23
     }
   }
 ]
