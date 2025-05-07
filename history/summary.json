@@ -4,9 +4,9 @@
     "url": "https://vinnyfarms.com",
     "icon": "https://icons.duckduckgo.com/ip3/vinnyfarms.com.ico",
     "slug": "vinny-farms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 348,
     "timeMonth": 257,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "PhilStevenson.tech",
@@ -58,17 +60,19 @@
     "url": "https://www.andersondrivertraining.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.andersondrivertraining.co.uk.ico",
     "slug": "anderson-driver-training",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
+    "time": 275,
     "timeDay": 245,
     "timeWeek": 286,
     "timeMonth": 608,
     "timeYear": 303,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   }
 ]
