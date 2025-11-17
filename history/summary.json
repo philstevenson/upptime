@@ -4,11 +4,11 @@
     "url": "https://vinnyfarms.com",
     "icon": "https://icons.duckduckgo.com/ip3/vinnyfarms.com.ico",
     "slug": "vinny-farms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 246,
     "timeDay": 327,
@@ -16,7 +16,7 @@
     "timeMonth": 283,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-11-17": 11,
+      "2025-11-17": 1,
       "2025-07-24": 17,
       "2025-05-07": 23
     }
